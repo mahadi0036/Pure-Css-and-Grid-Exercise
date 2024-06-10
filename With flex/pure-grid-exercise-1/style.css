@@ -1,0 +1,81 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    color: white;
+    font-family: "open sans";
+}
+.nav{
+    width: 95%;
+    height: 100px;
+    background-color: black;
+
+   
+}
+.navbars{
+    height: 600px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-left: 40px;
+}
+.first-nav{
+   margin-right:80px ;
+}
+ul{
+    display: flex;  
+    gap:20px;
+}
+.one{
+    display: flex;
+    align-items: center;
+    justify-content: end;
+   
+}
+li{
+    list-style: none;
+    width: 80px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.mejenta{
+    background-color: mediumturquoise;
+    border-radius: 5px;
+   
+}
+.two{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+   
+ }
+.mejenta2{
+    background-color: mediumturquoise;
+    border-radius: 5px;
+   position: relative;
+   left: 450px;
+} 
+
+.mejenta3{
+    background-color: mediumturquoise;
+    border-radius: 5px; 
+}
+.third-nav{
+    position: relative;
+    left: 50px;
+}
+.three{
+    display: flex;
+    align-items: center;
+    
+}
+h1{
+    text-align: center;
+    color: rgb(146, 31, 11);
+}
+/* exercise-1 sesh */
+
+/* Exercise-2 shuru */
